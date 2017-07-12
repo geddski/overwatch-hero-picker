@@ -1,0 +1,56 @@
+.option.genji{ background-image: url("/img/heroes/genji.png"); }
+.option.mccree{ background-image: url("/img/heroes/mccree.png"); }
+.option.pharah{ background-image: url("/img/heroes/pharah.png"); }
+.option.reaper{ background-image: url("/img/heroes/reaper.png"); }
+.option.soldier-76{ background-image: url("/img/heroes/soldier-76.png"); }
+.option.sombra{ background-image: url("/img/heroes/sombra.png"); }
+.option.tracer{ background-image: url("/img/heroes/tracer.png"); }
+.option.bastion{ background-image: url("/img/heroes/bastion.png"); }
+.option.hanzo{ background-image: url("/img/heroes/hanzo.png"); }
+.option.junkrat{ background-image: url("/img/heroes/junkrat.png"); }
+.option.mei{ background-image: url("/img/heroes/mei.png"); }
+.option.torbjorn{ background-image: url("/img/heroes/torbjorn.png"); }
+.option.torbjorn{ background-image: url("/img/heroes/torbjorn.png"); }
+.option.widowmaker{ background-image: url("/img/heroes/widowmaker.png"); }
+.option.dva{ background-image: url("/img/heroes/dva.png"); }
+.option.orisa{ background-image: url("/img/heroes/orisa.png"); }
+.option.reinhardt{ background-image: url("/img/heroes/reinhardt.png"); }
+.option.roadhog{ background-image: url("/img/heroes/roadhog.png"); }
+.option.winston{ background-image: url("/img/heroes/winston.png"); }
+.option.zarya{ background-image: url("/img/heroes/zarya.png"); }
+.option.ana{ background-image: url("/img/heroes/ana.png"); }
+.option.lucio{ background-image: url("/img/heroes/lucio.png"); }
+.option.mercy{ background-image: url("/img/heroes/mercy.png"); }
+.option.symmetra{ background-image: url("/img/heroes/symmetra.png"); }
+.option.zenyatta{ background-image: url("/img/heroes/zenyatta.png"); }
+
+
+[hero=bastion]{ 
+  background-image: url(/img/selected-heroes/bastion.png); 
+  background-position: 18px 2px;
+}
+
+[hero=mercy]{ 
+  background-image: url(/img/selected-heroes/mercy.png); 
+  background-position: 18px 2px;
+}
+
+[hero=hanzo]{ 
+  background-image: url(/img/selected-heroes/hanzo.png); 
+  background-position: 18px 2px;
+}
+
+[hero=widowmaker]{ 
+  background-image: url(/img/selected-heroes/widowmaker.png); 
+  background-position: 9px 2px;
+}
+
+[hero=soldier-76]{ 
+  background-image: url(/img/selected-heroes/soldier-76.png); 
+  background-position: 7px 2px;
+}
+
+[hero=tracer]{ 
+  background-image: url(/img/selected-heroes/tracer.png); 
+  background-position: 19px 2px;
+}
