@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+  overflow: hidden;
+}
+
+body * {
+  box-sizing: border-box;
+}
+
+video{
+  height: 600px;
+  position: absolute;
+  opacity: .5;
+}
+
