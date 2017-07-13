@@ -84,3 +84,10 @@ video{
   color: #fff;
   font-family: Overwatch;
 }
+
+.heroes{
+  /* background: red; */
+  grid-area: heroes;
+  display: grid;
+  grid-template-columns: 241px 213px 206px 177px;
+}
